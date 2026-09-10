@@ -1,5 +1,3 @@
-#This is not investment advice.
-
 """Five-year FCFF DCF valuation (all dollar figures are in USD millions)."""
 
 # =========================
