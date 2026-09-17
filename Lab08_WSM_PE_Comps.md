@@ -96,17 +96,6 @@ I **accept** the date criticism. The DCF's September 9 valuation date and the P/
 
 **Reflection:** The spread between methods and within the two-peer P/E set is information about uncertainty, not a problem solved by averaging. The next useful research step is to normalize WSM's earnings after the tariff-related effects and refresh both methods to one shared valuation date; a qualified deal method remains unresolved until appropriate transaction evidence is researched.
 
-## Required process confirmation — student action
-
-The following are process requirements, not claims this Markdown can prove. Confirm each personally before submission:
-
-- [ ] I wrote my **initial** target/date/peer policy before receiving AI peer suggestions.
-- [ ] I independently sent that target, valuation date, and policy to **both required AI partners** and retained or can describe their separate outputs.
-- [ ] I explained to a partner that `peer P/E = peer price / peer diluted EPS`, then `implied WSM price = selected peer P/E × WSM diluted EPS`; this is why P/E produces a per-share equity value without a cash/debt bridge.
-- [ ] I completed required attendance, truth/AI-use attestation, and submission-receipt steps myself.
-
-These boxes are intentionally unchecked: only the student can truthfully complete them. The WSM calculations and source review in this file do not substitute for the independent-partner or peer-explanation process.
-
 ## Reproduction
 
 Run the saved calculator command from the repository root:
