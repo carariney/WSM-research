@@ -73,10 +73,6 @@ or handled.
 ask the portfolio proposer to define the loss measure, measurement frequency, and action after a
 breach. Record your own response to a real partner's D if one is supplied.
 
-## Question for the CIO — AI-closed response
-
-Write one question that blocks optimization, and state the answer that would change your portfolio.
-
 **Question for the CIO:** Should the portfolio prioritize higher returns or tighter risk limits?
 
 If the CIO wants higher returns, I would invest more in equities. If limiting risk is more
@@ -115,8 +111,3 @@ appropriate.
    a hard constraint. However, the CIO did not explain exactly how losses should be measured or
    what happens if the limit is exceeded. I learned that a rule needs clear definitions before it
    can be properly tested.
-
-## Submission
-
-Push this Markdown file and `mandate.py` to GitHub. Submit the two file links individually in the
-Lab 13 quiz after completing the marked AI-off sections yourself.
