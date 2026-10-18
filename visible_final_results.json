@@ -1,0 +1,31 @@
+{
+  "company": "Williams-Sonoma, Inc. (NYSE: WSM)",
+  "decision_date": "2026-08-31",
+  "currency": "USD",
+  "units": "millions except per-share amounts and ratios",
+  "market_price_per_share": 228.25,
+  "share_basis": "117.779173 million common shares outstanding, August 23, 2026",
+  "cash_and_debt_convention": "August 2 cash $1,028.936M; financial debt $0; all cash treated as excess in base case",
+  "integrated_fcff": {
+    "enterprise_value": 15328.48,
+    "equity_value": 16357.42,
+    "value_per_share": 138.88,
+    "terminal_value_share_of_ev": 0.727
+  },
+  "integrated_scenarios_per_share": {
+    "downside": 123.00,
+    "base": 138.88,
+    "high": 156.69
+  },
+  "cash_treatment_per_share": {
+    "zero_percent_excess": 130.15,
+    "fifty_percent_excess": 134.51,
+    "one_hundred_percent_excess": 138.88
+  },
+  "comparable_ranges_per_share": {
+    "pe": [160.41, 208.95],
+    "ev_ebit": [140.65, 169.66]
+  },
+  "market_implied_terminal_growth": 0.0628,
+  "recommendation": "Watch / defer; do not initiate at the dated market price."
+}

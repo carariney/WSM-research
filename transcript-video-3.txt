@@ -1,0 +1,23 @@
+VIDEO 3 — INVESTMENT COMMITTEE DEFENSE
+
+Now that I've opened my live workbench, I'll start by showing how my valuation responds to changes in operating assumptions. The base case uses 5.95% revenue growth, a 45.5% gross margin, a 10% discount rate, and 3% terminal growth, producing a value of $138.88 per share.
+
+If the gross margin decreases to, let's say, 43.5%, and I run the workbench here, this reduces the valuation to approximately $131.28 per share. I'll reset the model to restore the original.
+
+This demonstrates how the model handles an invalid assumption. Terminal growth is set above the discount rate, and the workbench displays an error rather than producing a valuation.
+
+Now opening my presentation. My recommendation is Watch/Defer rather than initiating a position in Williams-Sonoma. As of August 31, 2026, the stock price was $228.25. My DCF range is $123 to $156.69 per share, and both comparable-company valuation methods also fall below the market price. Based on those results, I don't see an attractive entry point.
+
+Williams-Sonoma reported 6.2% comparable-brand revenue growth and maintained a net-cash position. However, second-quarter earnings included a $0.74-per-share benefit from tariff refunds. I excluded that benefit from recurring earnings expectations because it might not continue.
+
+My five-year forecast projects revenue increasing from approximately $8.27 billion in 2026 to $9.45 billion in 2030. The three financial statements are linked, and the model checks that they reconcile. Terminal value represents about 73% of enterprise value, making the DCF sensitive to long-term assumptions.
+
+I developed three scenarios to evaluate different operating outcomes. The downside case assumes weaker growth and margin pressure, producing a value of $123 per share and supporting Do Not Initiate. My base case is $138.88, while the high case is $156.69. Even the high case remains below the market price, supporting my recommendation to wait.
+
+I tested discount rates from 9% to 11% and terminal growth rates from 2% to 4%, producing values between approximately $113 and $185 per share. At my base assumptions, the market price would require about 6.28% perpetual growth, compared with the 3% in my model. This shows how optimistic market expectations would need to be.
+
+The main risks are tariff and sourcing costs, weaker consumer demand, and uncertainty surrounding cash flow. I would reconsider investing if Williams-Sonoma demonstrates sustainable margins and demand, maintains sufficient operating cash, and an updated valuation offers a margin of safety.
+
+My recommendation is to keep Williams-Sonoma on the watch list and reassess after the next meaningful operating update, focusing on demand, margins, tariff costs, and cash conversion.
+
+Thank you.

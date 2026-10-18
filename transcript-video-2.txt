@@ -1,0 +1,23 @@
+VIDEO 2 — CODE AND VALIDATION
+
+For this part of the project, I built a financial model for Williams-Sonoma and documented how to run it in this README. The idea was to make my calculations easy for someone else to reproduce and check.
+
+So now getting into the main model here, which uses Williams-Sonoma's reported financials to build a five-year forecast from 2026 through 2030. My main assumptions include 5.95% revenue growth in the first year, a 45.5% gross margin, a 10% discount rate, and 3% terminal growth. Some inputs are based on reported data, while others are my own judgments. I kept them visible so it's clear what is driving the valuation.
+
+So scrolling down a bit here, the model connects the financial statements instead of forecasting each one separately. So, for example, changing revenue growth affects earnings and working capital, which then affect cash flow and ultimately the valuation. It also checks that the balance sheet balances each year so the statements remain consistent.
+
+The model then discounts projected free cash flow, adds terminal value, and converts enterprise value into equity value. That produces a base valuation of $138.88 per share. I also tested different assumptions because I didn't want my conclusion to depend on just one set of inputs.
+
+So to validate the model, I created a separate file that checks the calculations. I started with a practice DCF problem that had a known answer so I could test the valuation math without relying on Williams-Sonoma's inputs. So the other tests here check that the financial statements reconcile and that the valuation responds correctly when assumptions change.
+
+So entering this right here into Terminal, you can see that all tests pass and the model reproduces my $138.88 base valuation. That gives me a lot more confidence that the calculations are working, although this doesn't quite yet mean that my forecast will necessarily be accurate.
+
+So I also included Lab 8. I calculated P/E and EV/EBIT valuations. This just gave me another way to evaluate Williams-Sonoma alongside the DCF. However, the peer group only includes two companies, so I treated those results just as supporting evidence.
+
+I also tested whether the code would run in a fresh environment. The first attempt failed because of a Python compatibility issue. I corrected the formatting problem, reran the code successfully, and documented both attempts. This helped identify an issue that wasn't related to the financial calculations themselves.
+
+I also reviewed a historical test where I lowered gross margin from 45.5% to 44%. As expected, operating income and cash flow decreased, and the historical FCFE-only valuation fell by $5.70 per share. This helps show how changes in operating assumptions flow through the model.
+
+Finally, I saved the results here so someone reviewing my project can see the main outputs without running the code. My base valuation is $138.88 per share, with a range of $123 to $156.69. Overall, the tests support the model's internal consistency, while the assumptions still remain the biggest source of uncertainty.
+
+Thank you.

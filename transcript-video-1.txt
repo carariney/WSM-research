@@ -1,0 +1,19 @@
+VIDEO 1 — RESEARCH EVOLUTION
+
+I chose to research Williams-Sonoma because I was familiar with its brands, such as Pottery Barn and West Elm, but I also primarily wanted to see whether it would actually be a good investment.
+
+My first concern was that people can easily put off buying furniture when money is tight. The company reported 6.2% comparable-brand growth, which looked promising, but its earnings also included a $0.74-per-share tariff benefit, and I wanted to know how much of its performance could continue without that.
+
+So my initial recommendation was Watch/Defer. At that point, I still had questions about future growth, profit margins, and how much cash was available to shareholders. Those are areas I focused on next.
+
+For Edition B, I built a five-year forecast, valued the company using a discounted cash flow model, and compared it with other retailers. My recommendation stayed the same, but now I had actual numbers to back it up.
+
+My DCF range was about $123 to $157 per share, compared with the market price of $228.25 on August 31. My peer valuations also came in below that price.
+
+What really stood out to me here was that Williams-Sonoma could be doing well as a business but still be overpriced as a stock. I also know my valuation depends on assumptions about future margins and growth, so I wouldn't treat it as an exact answer.
+
+Here is my validation and AI-use PDF. I used Codex to help write and check my calculations, but I didn't automatically trust the results. One example was an earlier class peer comparison where Codex generated a value of about $231 per share. I reran the calculation and confirmed the arithmetic, but the inputs were provisional. So I qualified the result, and I didn't use it in my final Williams-Sonoma valuation.
+
+I'd reconsider investing if the company showed it could maintain its profitability and the stock price offered more room for upside. But for now, I'm sticking with Watch/Defer.
+
+Thank you.
