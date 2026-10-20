@@ -41,3 +41,12 @@ The code uses covariance because portfolio risk depends on how assets move relat
 | Inverse volatility | 3.77% | 1.05% | 90.3% | No |
 
 The benchmark was added as Candidate E in `mandate.py`; it fails Meridian's 3.0% minimum reserve rule because its reserve-eligible weight is 0.0%.
+
+## Funds for Thursday
+
+| Ticker | Fund name | Role |
+|---|---|---|
+| BIL | SPDR Bloomberg 1-3 Month T-Bill ETF | Cash and reserve |
+| IEF | iShares 7-10 Year Treasury Bond ETF | Government bonds |
+| LQD | iShares iBoxx $ Investment Grade Corporate Bond ETF | Fixed income |
+| VT | Vanguard Total World Stock ETF | Equity |
